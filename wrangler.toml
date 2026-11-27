@@ -6,4 +6,4 @@ workers_dev = true
 
 [[kv_namespaces]]
 binding = "KV"
-id = "31124c9906ba4babb680da2d27385a98"
+id = "da74105bd6d84bd4a8069ba5eaad0c06"
