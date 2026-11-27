@@ -5,6 +5,9 @@ compatibility_flags = ["nodejs_compat"]
 keep_vars = true
 workers_dev = true
 
+[observability]
+enabled = true
+
 [[kv_namespaces]]
 binding = "KV"
 id = "da74105bd6d84bd4a8069ba5eaad0c06"
