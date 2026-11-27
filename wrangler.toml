@@ -11,3 +11,4 @@ enabled = true
 [[kv_namespaces]]
 binding = "KV"
 id = "da74105bd6d84bd4a8069ba5eaad0c06"
+# trigger build for hello-test-1127
